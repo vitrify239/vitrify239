@@ -1,4 +1,4 @@
-Codeforces and Hackerrank Solutions 
+Codeforces Solutions 
 
 <!---
 vitrifyit/vitrifyit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
